@@ -42,7 +42,7 @@ const posts = (await getCollection('gprojects')).sort(
 						posts.map((post) => (
 							<li>
 								<FormattedDate date={post.data.pubDate} />
-								<a href={`/gprojects/${post.slug}/`}>{post.data.title}</a>
+								<a href={`/npm-cluster/gprojects/${post.slug}/`}>{post.data.title}</a>
 							</li>
 						))
 					}

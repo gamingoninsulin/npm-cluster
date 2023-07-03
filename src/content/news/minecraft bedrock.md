@@ -1,9 +1,10 @@
 ---
-title: 'Addons'
-description: 'Lorem ipsum dolor sit amet'
+title: 'Minecraft bedrock Edition'
+description: 'Minecraft bedrock Edition updates'
 pubDate: '03-07-2023'
 heroImage: '/npm-cluster/bedrock_logo.png'
 ---
+
 
 > placeholder text
 >

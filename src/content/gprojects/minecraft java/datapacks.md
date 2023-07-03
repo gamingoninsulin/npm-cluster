@@ -2,7 +2,7 @@
 title: 'datapacks'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: '03-07-2023'
-heroImage: '/java_logo.png'
+heroImage: '/npm-cluster/java_logo.png'
 ---
 
 > placeholder text

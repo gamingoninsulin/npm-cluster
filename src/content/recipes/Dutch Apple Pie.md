@@ -2,7 +2,7 @@
 title: 'Dutch Apple Pie'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: '03-07-2023'
-heroImage: '/Dutch-Apple-Pie.jpg'
+heroImage: '/npm-cluster/Dutch-Apple-Pie.jpg'
 ---
 
 > Ingredient List:

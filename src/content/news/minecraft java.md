@@ -2,7 +2,7 @@
 title: 'Minecraft Java Edition'
 description: 'Minecraft Java Edition updates'
 pubDate: '03-07-2023'
-heroImage: '/placeholder-hero.jpg'
+heroImage: '/npm-cluster/java_logo.png'
 ---
 
 
