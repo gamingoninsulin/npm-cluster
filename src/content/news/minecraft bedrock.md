@@ -1,5 +1,5 @@
 ---
-title: 'Minecraft bedrock Edition'
+title: ''
 description: 'Minecraft bedrock Edition updates'
 pubDate: '03-07-2023'
 heroImage: '/npm-cluster/bedrock_logo.png'

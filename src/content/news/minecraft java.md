@@ -1,5 +1,5 @@
 ---
-title: 'Minecraft Java Edition'
+title: ''
 description: 'Minecraft Java Edition updates'
 pubDate: '03-07-2023'
 heroImage: '/npm-cluster/java_logo.png'
