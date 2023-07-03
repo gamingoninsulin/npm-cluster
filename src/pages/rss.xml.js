@@ -10,7 +10,7 @@ export async function get1(context) {
 		site: context.site,
 		items: posts.map((post) => ({
 			...post.data,
-			link: `/blog/${post.slug}/`,
+			link: `/npm-cluster/blog/${post.slug}/`,
 		})),
 	});
 }
@@ -23,7 +23,7 @@ export async function get2(context) {
 		site: context.site,
 		items: posts.map((post) => ({
 			...post.data,
-			link: `/recipes/${post.slug}/`,
+			link: `/npm-cluster/recipes/${post.slug}/`,
 		})),
 	});
 }
@@ -36,7 +36,7 @@ export async function get3(context) {
 		site: context.site,
 		items: posts.map((post) => ({
 			...post.data,
-			link: `/news/${post.slug}/`,
+			link: `/npm-cluster/news/${post.slug}/`,
 		})),
 	});
 }
@@ -49,7 +49,7 @@ export async function get4(context) {
 		site: context.site,
 		items: posts.map((post) => ({
 			...post.data,
-			link: `/gprojects/${post.slug}/`,
+			link: `/npm-cluster/gprojects/${post.slug}/`,
 		})),
 	});
 }
