@@ -6,6 +6,6 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://gamingoninsulin.github.io',
-	base: 'cluster',
+	base: '/npm-cluster',
 	integrations: [mdx(), sitemap()],
 });
