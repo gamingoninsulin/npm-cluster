@@ -57,7 +57,7 @@ const news = defineCollection({
 	}),
 });
 
-const gprojects = defineCollection({
+const projects = defineCollection({
 	// Type-check frontmatter using a schema
 	type: 'content',
 	schema: z.object({
@@ -80,6 +80,6 @@ export const collections = {
 	'news': news,
 	'blog': blog,
 	'recipes': recipes,
-	'gprojects': gprojects
+	'projects': projects
 
 };
