@@ -1,6 +1,6 @@
 ---
 title: 'datapacks'
-description: 'Lorem ipsum dolor sit amet'
+description: 'hosting my datapacks'
 pubDate: '03-07-2023'
 heroImage: '/npm-cluster/java_logo.png'
 ---
